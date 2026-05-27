@@ -103,8 +103,6 @@ $developer = [
 
 <div align="center">
 
-![Brayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayanbf05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=brayanbf05&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
 </div>
